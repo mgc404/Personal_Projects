@@ -1,0 +1,37 @@
+    Dilluns                     Dimarts                     Dimecres                    Dijous                      Divendres                   Dissabte                    Diumenge                    
+1r Amanida de verdura          1r Amanida de cigrons          1r Espaguetis                  1r Verdura de mongeta          1r Arros amb salmó i ceba      1r Estofat                     1r Tomàquets amb tonyina       
+2n                             2n                             2n                             2n                             2n                             2n                             2n                             
+
+1r verdura de pesols           1r Amanida de llenties         1r Rissotto                    1r Ensaladilla russa           1r Crema de Carbassó           1r Macarrons                   1r Fajitas                     
+2n                             2n                             2n                             2n                             2n                             2n                             2n                             
+
+1r Coliflor amb beixamel       1r Mongetes seques             1r Fideus a la casola          1r Amanida de verdura          1r Fideus a la casola          1r Arros amb salmó i ceba      1r Pizza                       
+2n                             2n                             2n                             2n                             2n                             2n                             2n                             
+
+1r Verdura de mongeta          1r Pesols ofegat               1r Pollastre guisa             1r verdura de pesols           1r Crema de carbassa           1r Espaguetis                  1r Fajitas                     
+2n                             2n                             2n                             2n                             2n                             2n                             2n                             
+
+1r Ensaladilla russa           1r Cigrons guisats             1r Macarrons                   1r Coliflor amb beixamel       1r Pollastre guisa             1r Estofat                     1r Pizza                       
+2n                             2n                             2n                             2n                             2n                             2n                             2n                             
+
+1r Amanida de verdura          1r Mongetes seques             1r Espaguetis                  1r Verdura de mongeta          1r Rissotto                    1r Rissotto                    1r Tomàquets amb tonyina       
+2n                             2n                             2n                             2n                             2n                             2n                             2n                             
+
+1r verdura de pesols           1r Amanida de cigrons          1r Macarrons                   1r Ensaladilla russa           1r Pollastre guisa             1r Fideus a la casola          1r Fajitas                     
+2n                             2n                             2n                             2n                             2n                             2n                             2n                             
+
+1r Coliflor amb beixamel       1r Cigrons guisats             1r Fideus a la casola          1r Amanida de verdura          1r Arros amb salmó i ceba      1r Estofat                     1r Pizza                       
+2n                             2n                             2n                             2n                             2n                             2n                             2n                             
+
+1r Verdura de mongeta          1r Amanida de llenties         1r Estofat                     1r verdura de pesols           1r Crema de pastanaga          1r Rissotto                    1r Tomàquets amb tonyina       
+2n                             2n                             2n                             2n                             2n                             2n                             2n                             
+
+1r Ensaladilla russa           1r Pesols ofegat               1r Pollastre guisa             1r Coliflor amb beixamel       1r Estofat                     1r Espaguetis                  1r Pizza                       
+2n                             2n                             2n                             2n                             2n                             2n                             2n                             
+
+1r Amanida de verdura          1r Mongetes seques             1r Pollastre guisa             1r Verdura de mongeta          1r Macarrons                   1r Estofat                     1r Fajitas                     
+2n                             2n                             2n                             2n                             2n                             2n                             2n                             
+
+1r verdura de pesols           1r Cigrons guisats             1r Fideus a la casola          1r Ensaladilla russa           1r Pollastre guisa             1r Arros amb salmó i ceba      1r Tomàquets amb tonyina       
+2n                             2n                             2n                             2n                             2n                             2n                             2n                             
+

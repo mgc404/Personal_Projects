@@ -1,0 +1,32 @@
+Hamburgueses:
+·vedella
+-hamburgueses
+Pollastre a la planxa:
+·pollastre
+-Filets de pit de pollastre
+llibrets de llom:
+·porc
+-llibrets de lom
+Llonzes:
+-llonzes
+Crestes:
+-crestes congelades
+Peix a la planxa:
+·peix
+-Peix per fer a la planxa
+Bistecs
+·vedella
+-bistecs
+Mandonguilles guisades:
+·vedella
+-mandonguilles
+-prunes
+-pastanaga
+-patates
+-ceba
+-salsa de tomaquet
+Truita de patates:
+·ous
+-patates
+-ceba
+-ous

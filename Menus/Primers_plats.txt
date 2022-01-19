@@ -1,0 +1,273 @@
+Pizza:
+·altres
+·20 minuts
+·hivern
+·primavera
+·estiu
+·tardo
+-pizza casa tarradelles
+Tomàquets amb tonyina:
+·altres
+·30 minuts
+·estiu
+·primavera
+-Tomàquets madurs
+-Tonyina
+-Maionesa
+-Ketchup
+Macarrons:
+·pasta
+·40 minuts
+·hivern
+·primavera
+·estiu
+·tardo
+-Macarrons
+-Formatge rallat
+-Salsa de tomaquet
+-Pebrot verd
+-ceba
+Amanida de verdura:
+·verdura
+·1 hora
+·estiu
+·primavera
+-Mongeta
+-Tomàquet
+-Patata
+-Ous
+-Pernil salat
+Amanida de cigrons:
+·llegums
+·20 minuts
+·estiu
+·primavera
+·tardo
+-Cigrons
+-Tonyina
+-Tomàquet
+-Salsa rosa
+-blat de moru
+Amanida de llenties:
+·llegums
+·20 minuts
+·estiu
+·primavera
+·tardo
+-Llenties
+-Mango
+-Pebrot verd
+-Pebrot vermell
+-Vinagreta
+Espaguetis:
+·pasta
+·35 minuts
+·hivern
+·estiu
+·primavera
+·tardor
+-tallarin/espaguetis
+-salsa tomaquet
+-parmesano
+Verdura de mongeta:
+·verdura
+·1 hora
+·hivern
+·estiu
+·primavera
+·tardor
+-mongeta tendre
+-patates
+-cebas
+-pastanaga
+verdura de pesols:
+·verdura
+·1 hora
+·hivern
+·estiu
+·primavera
+·tardo
+-pessols
+-patataes
+-pastanaga
+-ceba
+Crema de Carbassó:
+·sopes
+·1 hora
+·hivern
+·estiu
+·primavera
+·tardo
+-6 carbassons
+-1 ceba grossa
+-1 formatget per persona
+-2 pastillas de pollo
+-crema de llet
+-crustons
+Crema de carbassa:
+·sopes
+·1 hora
+·hivern
+·estiu
+·primavera
+·tardo
+-6 carbasses
+-1 ceba grossa
+-1 formatget per persona
+-2 pastillas de pollo
+-crema de llet
+-crustons
+Crema de pastanaga:
+·sopes
+·1 hora
+·hivern
+·estiu
+·primavera
+·tardo
+-1Kg pastanagues
+-1 ceba grossa
+-1 formatget per persona
+-2 pastillas de pollo
+-crema de llet
+-crustons
+Arros amb salmó i ceba:
+·arros
+·45 minuts
+·hivern
+·estiu
+·primavera
+·tardo
+-arros
+-esparrecs verds
+-salmo
+-bolets
+-ceba
+-soja
+Fideus a la casola:
+·pasta
+·1.30 hores
+·hivern
+·estiu
+·primavera
+·tardo
+-fideus 3
+-llonses
+-ceba
+-alls
+Pesols ofegat:
+·llegums
+·30 minuts
+·hivern
+·estiu
+·primavera
+·tardo
+-pesols
+-botifarra negre
+-ceba
+-alls
+-beacon
+-salsitxa
+Estofat:
+·estofat
+·1.30 hores
+·hivern
+·primavera
+·tardo
+-conill de vedella
+-patates
+-alls
+-carxofes
+-pastanaga
+-albergínia
+-tomàquet
+-ceba
+Cigrons guisats:
+·llegums
+·1.30 hores
+·hivern
+·estiu
+·primavera
+·tardo
+-cigrons
+-alls
+-xoriço
+-pastanaga
+-ceba
+-salsa de tomaquet
+Mongetes seques:
+·llegums
+·
+·hivern
+·estiu
+·primavera
+·tardo
+-mongetes seques
+-botifarra crua
+-cansalada
+-alls
+-bacó
+Rissotto:
+·arros
+·45 mins
+·hivern
+·primavera
+·tardo
+-arros
+-bolets silvestres
+-ceba
+-formatge parmesano
+-mantega
+-brou
+Sopa de ceba:
+·sopes
+·
+·hivern
+·tardo
+-brou
+-ceba
+-formatge per fondre
+Ensaladilla russa:
+·verdura
+·
+·hivern
+·estiu
+·primavera
+·tardo
+-patates
+-cebetes
+-pastanaga
+-pesols
+-tonyina
+-mayonesa
+-mongeta tendra
+Coliflor amb beixamel:
+·verdura
+·
+·hivern
+·estiu
+·primavera
+·tardo
+-coliflor
+-patates
+-bacó
+-crema de llet
+-farina blanca
+-formatge gruyere
+Fajitas:
+·altres
+·1.30
+·hivern
+·estiu
+·primavera
+·tardor
+-moltes coses
+Pollastre guisat
+·estofat
+·1.30
+·hivern
+·tardor
+-pollastre
+-ceba
+-tomàquet
+-pastanaga
+-patates
